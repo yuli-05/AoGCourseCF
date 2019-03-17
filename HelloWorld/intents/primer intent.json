@@ -1,0 +1,31 @@
+{
+  "id": "c608d9c3-7722-4dd8-9c47-1bcb46b17b0d",
+  "name": "primer intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Hola, soy tu Hola Mundo Chatbot, ahora estoy en funcionamiento",
+            "Hola, soy tu primer chatbot",
+            "Hola, bienvenido al mundo de los chatbots"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
