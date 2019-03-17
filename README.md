@@ -32,10 +32,12 @@ Para este curso deberás contar con las siguientes herramientas:
 * Deployment
 * ¿Qué Aprendimos?
 
-### Demo 
+#### Demo Final   
+![Demo Final](https://media.giphy.com/media/mBqfqRd2OA50eITNVF/giphy.gif) 
 
-<img src="https://firebasestorage.googleapis.com/v0/b/hack-442dd.appspot.com/o/DF.gif?alt=media&token=a36de27a-b8c5-4929-852d-399aa417ecb9" width="45%"></img> <img src="https://firebasestorage.googleapis.com/v0/b/hack-442dd.appspot.com/o/Final.png?alt=media&token=01e1090f-d982-4580-a995-6b450587c8a5" width="45%"></img>
-
+#### Demo en Google Assistant
+![Demo](https://firebasestorage.googleapis.com/v0/b/hack-442dd.appspot.com/o/Final.png?alt=media&token=01e1090f-d982-4580-a995-6b450587c8a5)
+#### Deployment
 ![Deployment](https://firebasestorage.googleapis.com/v0/b/hack-442dd.appspot.com/o/deploy.png?alt=media&token=424c5ba0-c2c7-44d9-8f30-f8caf2846d3d)
 
 ### Recursos
