@@ -1,0 +1,89 @@
+{
+  "id": "499e110f-594b-4410-8d65-72aa63c7be5c",
+  "name": "RSVP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c2c822a5-93c9-4e09-afe3-3688de594b0e",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Cuál es tú nombre?"
+            },
+            {
+              "lang": "es",
+              "value": "¿Cómo te llamas?"
+            },
+            {
+              "lang": "es",
+              "value": "Me puedes dar por favor tu nombre"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "de2fd838-0abd-4606-8d68-617358835049",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Ok, ¿Cuántas personas son en tu equipo?"
+            },
+            {
+              "lang": "es",
+              "value": "Genial, ¿Para cuantas personas quieres hacer el registro?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "d666ccd0-ba2f-4d47-a383-c52f96d6b806",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Muy bien, ¿A que correo debería enviar los boletos?"
+            },
+            {
+              "lang": "es",
+              "value": "Perfecto, ¿A que correo prefieres que te envie tus entradas?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Tu registro ha sido completado con éxito, nos vemos en el Hack",
+            "Bienvenido al Hack, se ha registrado a tu equipo con éxito"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
