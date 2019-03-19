@@ -4,7 +4,7 @@
 
 ## Presentación
 
-Hola, en este repositorio encontrarás todos los ejercicios realizados durante el curso.
+Hola, en este repositorio encontrarás todos los ejercicios realizados durante el curso Chatbots con [Google Assistant y DialogFlow](https://codigofacilito.com/cursos/introduccion-google-asistant).
 
 Actions en Google es una plataforma para desarrolladores que te permite crear software para ampliar la funcionalidad de Google Assistant, el asistente personal virtual de Google, en más de 500 millones de dispositivos, incluidos altavoces inteligentes, teléfonos, automóviles, televisores, auriculares y más.
 
